@@ -1,0 +1,282 @@
+# depslib dependency file v1.0
+1524049070 source:c:\users\asus\documents\aanisah rifda\struktur data\mahasiswa\main.cpp
+	"relasi.h"
+
+1524047004 c:\users\asus\documents\aanisah rifda\struktur data\mahasiswa\mahasiswa.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1524049643 source:c:\users\asus\documents\aanisah rifda\struktur data\mahasiswa\mahasiswa.cpp
+	"mahasiswa.h"
+
+1524049041 c:\users\asus\documents\aanisah rifda\struktur data\mahasiswa\relasi.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+	"mahasiswa.h"
+
+1524049283 source:c:\users\asus\documents\aanisah rifda\struktur data\mahasiswa\relasi.cpp
+	"relasi.h"
+
+1524402098 source:d:\tubes std\struktur data\mahasiswa\mahasiswa.cpp
+	"mahasiswa.h"
+
+1524786183 d:\tubes std\struktur data\mahasiswa\mahasiswa.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1524762018 source:d:\tubes std\struktur data\mahasiswa\matkull.cpp
+	"matkull.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1524761805 d:\tubes std\struktur data\mahasiswa\matkull.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1524557237 source:d:\tubes std\struktur data\mahasiswa\main.cpp
+	"relasi.h"
+
+1524668925 d:\tubes std\struktur data\mahasiswa\relasi.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+	"mahasiswa.h"
+	"matkull.h"
+
+1524761805 source:d:\tubes std\struktur data\mahasiswa\relasi.cpp
+	"relasi.h"
+	"matkull.h"
+	"mahasiswa.h"
+
+1524402098 source:c:\users\asus\downloads\struktur data\mahasiswa\mahasiswa.cpp
+	"mahasiswa.h"
+
+1524401706 c:\users\asus\downloads\struktur data\mahasiswa\mahasiswa.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1524398843 source:c:\users\asus\downloads\struktur data\mahasiswa\main.cpp
+	"relasi.h"
+
+1524280455 c:\users\asus\downloads\struktur data\mahasiswa\relasi.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+	"mahasiswa.h"
+	"matkull.h"
+
+1524134883 c:\users\asus\downloads\struktur data\mahasiswa\matkull.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1524398799 source:c:\users\asus\downloads\struktur data\mahasiswa\matkull.cpp
+	"matkull.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1524403466 source:c:\users\asus\downloads\struktur data\mahasiswa\relasi.cpp
+	"relasi.h"
+	"matkull.h"
+	"mahasiswa.h"
+
+1524402098 source:c:\users\asus\downloads\mahasiswa\mahasiswa.cpp
+	"mahasiswa.h"
+
+1524557237 c:\users\asus\downloads\mahasiswa\mahasiswa.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1524557237 source:c:\users\asus\downloads\mahasiswa\main.cpp
+	"relasi.h"
+
+1524557237 c:\users\asus\downloads\mahasiswa\relasi.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+	"mahasiswa.h"
+	"matkull.h"
+
+1524134883 c:\users\asus\downloads\mahasiswa\matkull.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1524398799 source:c:\users\asus\downloads\mahasiswa\matkull.cpp
+	"matkull.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1524556890 source:c:\users\asus\downloads\mahasiswa\relasi.cpp
+	"relasi.h"
+	"matkull.h"
+	"mahasiswa.h"
+
+1524786197 source:c:\users\irbah salsabila\documents\tubes guah\mahasiswa\mahasiswa.cpp
+	"mahasiswa.h"
+
+1524786183 c:\users\irbah salsabila\documents\tubes guah\mahasiswa\mahasiswa.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1524557237 source:c:\users\irbah salsabila\documents\tubes guah\mahasiswa\main.cpp
+	"relasi.h"
+
+1524668925 c:\users\irbah salsabila\documents\tubes guah\mahasiswa\relasi.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+	"mahasiswa.h"
+	"matkull.h"
+
+1524761805 c:\users\irbah salsabila\documents\tubes guah\mahasiswa\matkull.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1524762018 source:c:\users\irbah salsabila\documents\tubes guah\mahasiswa\matkull.cpp
+	"matkull.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1524761805 source:c:\users\irbah salsabila\documents\tubes guah\mahasiswa\relasi.cpp
+	"relasi.h"
+	"matkull.h"
+	"mahasiswa.h"
+
+1524812302 source:d:\tubes std\struktur data\tubes guah\mahasiswa\mahasiswa.cpp
+	"mahasiswa.h"
+
+1524786183 d:\tubes std\struktur data\tubes guah\mahasiswa\mahasiswa.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1524828884 source:d:\tubes std\struktur data\tubes guah\mahasiswa\main.cpp
+	"relasi.h"
+
+1524832643 d:\tubes std\struktur data\tubes guah\mahasiswa\relasi.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+	"mahasiswa.h"
+	"matkull.h"
+
+1524828333 d:\tubes std\struktur data\tubes guah\mahasiswa\matkull.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1524812938 source:d:\tubes std\struktur data\tubes guah\mahasiswa\matkull.cpp
+	"matkull.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1524828076 source:d:\tubes std\struktur data\tubes guah\mahasiswa\relasi.cpp
+	"relasi.h"
+	"matkull.h"
+	"mahasiswa.h"
+
+1524812302 source:c:\users\asus\downloads\motion\tubes guah\mahasiswa\mahasiswa.cpp
+	"mahasiswa.h"
+
+1524786183 c:\users\asus\downloads\motion\tubes guah\mahasiswa\mahasiswa.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1524828884 source:c:\users\asus\downloads\motion\tubes guah\mahasiswa\main.cpp
+	"relasi.h"
+
+1524839022 c:\users\asus\downloads\motion\tubes guah\mahasiswa\relasi.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+	"mahasiswa.h"
+	"matkull.h"
+
+1524828333 c:\users\asus\downloads\motion\tubes guah\mahasiswa\matkull.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1524812938 source:c:\users\asus\downloads\motion\tubes guah\mahasiswa\matkull.cpp
+	"matkull.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1524839518 source:c:\users\asus\downloads\motion\tubes guah\mahasiswa\relasi.cpp
+	"relasi.h"
+	"matkull.h"
+	"mahasiswa.h"
+
+1524902386 source:c:\users\irbah salsabila\documents\tubes guweh\tubes guah\mahasiswa\mahasiswa.cpp
+	"mahasiswa.h"
+
+1524902289 c:\users\irbah salsabila\documents\tubes guweh\tubes guah\mahasiswa\mahasiswa.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1524899192 source:c:\users\irbah salsabila\documents\tubes guweh\tubes guah\mahasiswa\main.cpp
+	"relasi.h"
+
+1524899194 c:\users\irbah salsabila\documents\tubes guweh\tubes guah\mahasiswa\relasi.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+	"mahasiswa.h"
+	"matkull.h"
+
+1524828333 c:\users\irbah salsabila\documents\tubes guweh\tubes guah\mahasiswa\matkull.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1524900035 source:c:\users\irbah salsabila\documents\tubes guweh\tubes guah\mahasiswa\matkull.cpp
+	"matkull.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1524903283 source:c:\users\irbah salsabila\documents\tubes guweh\tubes guah\mahasiswa\relasi.cpp
+	"relasi.h"
+	"matkull.h"
+	"mahasiswa.h"
+
